@@ -8,7 +8,7 @@ Paper title:
 Distributed deep learning for big data time series analysis
 
 Link to the paper:
-[https://ieeexplore......](https://link.springer.com/chapter/10.1007/978-3-031-15063-0_31)
+https://link.springer.com/chapter/10.1007/978-3-031-15063-0_31
 
 Group Number:
 27
